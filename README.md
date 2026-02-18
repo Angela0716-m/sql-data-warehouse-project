@@ -15,7 +15,6 @@
 <li>What behaviour predicts certification completion?</li>
 <li>Where do users drop off?</li>
 </ul>
-<p>This project builds a SQL Server data warehouse to measure retention, engagement and learning impact.</p>
 </div>
 </section>
 
