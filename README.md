@@ -142,8 +142,6 @@ FROM fact_confidence;
 <h2>Skills Demonstrated</h2>
 <div class="card">
 <ul>
-<li>Data Warehouse Design (Medallion Architecture)</li>
-<li>ETL Development</li>
 <li>Star Schema Modeling</li>
 <li>Analytical SQL</li>
 <li>Product Analytics</li>
